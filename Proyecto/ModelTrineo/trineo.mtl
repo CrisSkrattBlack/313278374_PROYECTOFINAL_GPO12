@@ -1,0 +1,303 @@
+newmtl Reno:_reindeer_bell1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.jpg
+Ni 1.50
+Ks 0.45 0.45 0.45
+Ns 55.00
+newmtl Reno:_reindeer_fur
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piel.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl Reno:_reindeer_leather1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cafe.jpg
+Ni 1.50
+Ks 0.24 0.24 0.24
+Ns 25.00
+newmtl Reno:_reindeer_metal
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.72 0.72 0.72
+Ns 80.00
+newmtl Reno:_reindeer_redleather1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rojo.jpg
+Ni 1.50
+Ks 0.24 0.24 0.24
+Ns 25.00
+newmtl Reno1:_reindeer_bell1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.jpg
+Ni 1.50
+Ks 0.45 0.45 0.45
+Ns 55.00
+newmtl Reno1:_reindeer_fur
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piel.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl Reno1:_reindeer_leather1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cafe.jpg
+Ni 1.50
+Ks 0.24 0.24 0.24
+Ns 25.00
+newmtl Reno1:_reindeer_metal
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.72 0.72 0.72
+Ns 80.00
+newmtl Reno1:_reindeer_redleather1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rojo.jpg
+Ni 1.50
+Ks 0.24 0.24 0.24
+Ns 25.00
+newmtl Reno2:_reindeer_bell1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.jpg
+Ni 1.50
+Ks 0.45 0.45 0.45
+Ns 55.00
+newmtl Reno2:_reindeer_fur
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piel.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl Reno2:_reindeer_leather1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cafe.jpg
+Ni 1.50
+Ks 0.24 0.24 0.24
+Ns 25.00
+newmtl Reno2:_reindeer_metal
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.72 0.72 0.72
+Ns 80.00
+newmtl Reno2:_reindeer_redleather1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rojo.jpg
+Ni 1.50
+Ks 0.24 0.24 0.24
+Ns 25.00
+newmtl Reno3:_reindeer_bell1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.jpg
+Ni 1.50
+Ks 0.45 0.45 0.45
+Ns 55.00
+newmtl Reno3:_reindeer_fur
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piel.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl Reno3:_reindeer_leather1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cafe.jpg
+Ni 1.50
+Ks 0.24 0.24 0.24
+Ns 25.00
+newmtl Reno3:_reindeer_metal
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.72 0.72 0.72
+Ns 80.00
+newmtl Reno3:_reindeer_redleather1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rojo.jpg
+Ni 1.50
+Ks 0.24 0.24 0.24
+Ns 25.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Rojo2.png
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd verde.png
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.png
+Ni 1.00
+newmtl trineo:Hog_eye_rim01
+illum 4
+Kd 0.80 0.40 0.34
+Ka 0.60 0.30 0.26
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.53 0.53 0.53
+Ns 74.70
+newmtl trineo:Hog_eye_whites01
+illum 4
+Kd 0.95 0.89 0.82
+Ka 0.71 0.66 0.61
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 105.50
+newmtl trineo:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Map__2_Noise.tga
+map_Ka Map__2_Noise.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl trineo:___Default8
+illum 4
+Kd 0.11 0.31 0.11
+Ka 0.11 0.31 0.11
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl trineo:___Default22
+illum 4
+Kd 0.05 0.05 0.05
+Ka 0.05 0.05 0.05
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl trineo:___Default24
+illum 4
+Kd 0.90 0.78 0.44
+Ka 0.90 0.78 0.44
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 1.28 1.28 1.28
+Ns 12.00
+newmtl trineo:antelope_mouth01
+illum 4
+Kd 0.44 0.29 0.18
+Ka 0.33 0.22 0.13
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.22 0.22 0.22
+Ns 74.70
+newmtl trineo:wire_057008136
+illum 4
+Kd 0.22 0.03 0.53
+Ka 0.22 0.03 0.53
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl trineo:wire_088177027
+illum 4
+Kd 0.35 0.69 0.11
+Ka 0.35 0.69 0.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl trineo:wire_153228153
+illum 4
+Kd 0.60 0.89 0.60
+Ka 0.60 0.89 0.60
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl trineo:wire_177088026
+illum 4
+Kd 0.69 0.35 0.10
+Ka 0.69 0.35 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl trineo:wire_214229166
+illum 4
+Kd 0.84 0.90 0.65
+Ka 0.84 0.90 0.65
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl trineo:wire_214229172
+illum 4
+Kd 0.69 0.35 0.11
+Ka 0.69 0.35 0.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
